@@ -10,7 +10,7 @@
 
 export const profile = {
   name: "Muhammad Rashid",
-  handle: "@mayaonthemove",
+  handle: "@rashid.solo.tavel",
   role: "Travel & Lifestyle Creator",
   location: "Currently in Bali 🌴",
   tagline: "Chasing sunsets, sharing stories",
